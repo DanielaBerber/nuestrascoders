@@ -1,0 +1,44 @@
+div{
+	height: 200px;
+	width: 200px;
+	margin: 20px;
+}
+.opacidad{
+	webkit-filter:brightness(70%);
+	filter: brightness(70%);
+}
+.lechuza1{
+	position: absolute;
+	background-image:url(http://3.bp.blogspot.com/-KedxtgUZvXE/Tu95HnWKTPI/AAAAAAAABd8/QxCjbFvAxik/s1600/lechuza-ave.jpg);
+}
+.lechuza2{
+	position: absolute;
+	left: 250px;
+	background-image:url(http://deanimalia.com/images/full/bosque/lechuza2.jpg);
+}
+.lechuza3{
+	position: absolute;
+	left: 475px;
+	background-image:url(http://4.bp.blogspot.com/-YFCstGP2fBM/TmbD3cG1vII/AAAAAAAAARs/YEDKvdn6YoU/s320/owls_01.jpg);
+}
+.lechuza4{
+	position: absolute;
+	background-image:url(https://c1.staticflickr.com/3/2542/3855059399_cc0da53157.jpg);
+}
+.lechuza5{
+	position: absolute;
+	left: 250px;
+	background-image:url(http://www.fotosdeanimales.com.ar/wp-content/uploads/2014/10/lechuza-blanca.jpg);
+}
+.lechuza6{
+	position: absolute;
+	left: 475px;
+	background-image:url(https://s-media-cache-ak0.pinimg.com/564x/15/7f/f3/157ff374d49ece1d89cc3c5ac905e5b0.jpg);
+}
+p{
+	color: white;
+	font-family: arial;
+	position: absolute;
+	bottom: -10px;
+	right: 5px;
+}
